@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-i am a security software develope from 🇫🇷.
+i am a security software developer from 🇫🇷.
 
 🔭 I'm currently working on the operative framework tool, it is an investigation software.
 
