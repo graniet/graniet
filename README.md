@@ -9,3 +9,8 @@ i am a security software developer from 🇫🇷.
 
 Twitter: @graniet75
 
+<p align = "">
+  <img src = "https://github-readme-stats.vercel.app/api?username=graniet&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=graniet&hide=css,shell,html">
+</p>
+
