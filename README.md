@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-i am a security software developer from 🇫🇷.
+i am a security engineer & senior software developer from France.
 
 Twitter: @graniet75
 
